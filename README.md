@@ -8,3 +8,10 @@ Note:
 ❤️ git commit -m "Writing your account here"
 ❤️ git push origin
 ```
+
+```
+👩‍💻GUI - Graphical interface
+👩‍💻CLI - command line interface 
+👩‍💻OS - operating system
+👩‍💻PC - private computer
+👩‍💻IT - information technology 
