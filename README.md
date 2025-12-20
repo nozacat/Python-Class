@@ -15,3 +15,8 @@ Note:
 👩‍💻OS - operating system
 👩‍💻PC - private computer
 👩‍💻IT - information technology 
+```
+
+
+# My favorite food
+print("My favorite is everything. I love all types of food, but my favorite is sushi and mastova and moshgurunj😋. ")
