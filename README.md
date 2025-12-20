@@ -19,4 +19,4 @@ Note:
 
 
 # My favorite food
-print("My favorite is everything. I love all types of food, but my favorite is sushi and mastova and moshgurunj😋. ")
+My favorite is everything. I love all types of food, but my favorite is sushi and mastova and moshgurunj😋. 
